@@ -50,6 +50,24 @@ li a {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 li a:hover {
-  background: rgb(199, 147, 70);
-  color: black;
+  background: rgb(255, 153, 0);
+  color: rgb(0, 0, 0);
+}
+#carro {
+  width: 15%;
+}
+.caixacarro {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 90%;
+  height: 140px;
+  background: #38aa29;
+  margin: 20px;
+  border-color: rgb(255, 0, 0);
+  border-width: 20px;
+  border-style: solid;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
 }
