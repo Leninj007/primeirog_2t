@@ -70,4 +70,6 @@ li a:hover {
 .conteudo {
   position: absolute;
   top: 45px;
+  width: 100%;
 }
+
